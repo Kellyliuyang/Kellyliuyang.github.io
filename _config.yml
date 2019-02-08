@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
 title: Liu Yang
 description: Liu Yang's Data Science Blog
+# Site Author
+author:
+  name             : "Liu Yang"
+  avatar           : 
+  bio              : "Love Data Science"
+  location         : 
+  email            : "lyangkelly@gmail.com"
+  github           : "Kellyliuyang"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "liu-yang-484b0b102"
